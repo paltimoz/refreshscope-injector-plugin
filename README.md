@@ -1,0 +1,1 @@
+# refreshscope-injector-plugin
