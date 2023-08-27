@@ -39,6 +39,8 @@ Please make sure that you have the dependency that includes the `@RefreshScope` 
 
 With the RefreshScope Injector Plugin in place, you no longer need to manually add the `@RefreshScope` annotation to every class that uses `@Value`. The plugin will handle it for you during the build process.
 
+`Note:` If you wish to add the `@RefreshScope` annotation to your source code, please use the source_code branch.
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
